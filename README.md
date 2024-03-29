@@ -4,7 +4,8 @@ QuantaSoil is a project dedicated to solving issues of excessive fertilizer/inco
 
 ## About the model
 
-Here, based on an open dataset from Kaggle, various algorithms were used and the one with best accuracy was chosen.
+Model was imported from Google Colab.
+Here, based on an open dataset from Kaggle, various algorithms were used and the one with best accuracy was chosen to be used in the model.
 Accuracy can be seen in outputs.
 
 ### Many thanks to:
